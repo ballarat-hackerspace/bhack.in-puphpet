@@ -1,4 +1,10 @@
+# Vagrant files.
 .vagrant
-puphpet/files/dot/ssh
+puphpet/files/dot/ssh/*id_rsa*
 
+# bHack files
+bhack.in
+
+# Miscellaneous files
 .DS_Store
+.idea
